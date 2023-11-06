@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5.0)
 
-project(ekf)
+project(mekf)
 include_directories(${PROJECT_SOURCE_DIR})
 include_directories(${PROJECT_SOURCE_DIR}/manif/include)
 include_directories(${PROJECT_SOURCE_DIR}/manif/external/tl)
